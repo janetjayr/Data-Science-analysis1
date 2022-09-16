@@ -1,6 +1,6 @@
 # Data-Science-analysis-work
 Real world datasets analysed with pandas library
-
+This is Sales analysis proect using jupyter notebook.
 If you wish to contribute there are a few things that the project is missing please see the needed [Contributions](#Contributions) below. 
 
 
